@@ -1,4 +1,6 @@
 {
-  "apikey": "bRDLh9bGw8VMAAaVhv_pq2m3CfJeITUiAC7BcolD_0qI",
-  "apiurl": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/f47c9a96-8e9e-4178-a6bf-3e18f076199e"
+  "stt_apikey": "bRDLh9bGw8VMAAaVhv_pq2m3CfJeITUiAC7BcolD_0qI",
+  "stt_apiurl": "https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/f47c9a96-8e9e-4178-a6bf-3e18f076199e",
+  "tts_apikey": "McW8DcOo7eBPijTFnLi-PezE-b74E641NbsKcTVTX7qs",
+  "tts_apiurl": "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/a1adb810-b86d-47e0-8e0f-bb845058f8e9"
 }

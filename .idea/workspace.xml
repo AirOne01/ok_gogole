@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b505bd0-9736-4f78-8270-874c30a73132" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/popGt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ok_gogole.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dialogflow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/STT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TTS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583865186991</updated>
       <workItem from="1583865207390" duration="1704000" />
-      <workItem from="1583867142951" duration="7873000" />
+      <workItem from="1583867142951" duration="9272000" />
     </task>
     <servers />
   </component>
