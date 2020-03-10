@@ -1,2 +1,4 @@
 # ok_gogole
-Testing the features of Google Cloud
+#### Testing features from Google Dialogflow and IBM Watson
+
+###### (Simon, c'est pour toi)
