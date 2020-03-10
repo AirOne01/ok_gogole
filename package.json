@@ -1,0 +1,23 @@
+{
+  "name": "ok_gogole",
+  "version": "1.0.0",
+  "description": "###### (Simon, c'est pour toi)",
+  "main": "index.js",
+  "dependencies": {
+    "ibm-watson": "^5.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AirOne01/ok_gogole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AirOne01/ok_gogole/issues"
+  },
+  "homepage": "https://github.com/AirOne01/ok_gogole#readme"
+}
