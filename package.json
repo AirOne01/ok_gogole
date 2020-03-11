@@ -4,6 +4,7 @@
   "description": "###### (Simon, c'est pour toi)",
   "main": "index.js",
   "dependencies": {
+    "apiai": "^4.0.3",
     "ibm-watson": "^5.4.0"
   },
   "devDependencies": {},

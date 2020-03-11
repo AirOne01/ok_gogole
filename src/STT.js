@@ -9,7 +9,7 @@ const {IamAuthenticator} = require('ibm-watson/auth');
 const cfg = require("../config/config.json");
 
 // Params
-const params = {
+let params = {
     audio: fs.createReadStream('../1.ogg'),
     contentType: 'audio/ogg; rate=4410',
     model: 'fr-FR_NarrowbandModel'
@@ -21,14 +21,19 @@ const speechToText = new SpeechToTextV1({
     url: cfg.stt_apiurl
 });
 
-// STT test
-speechToText.recognize(params, (err, res) => {
-    if (err) {
-        console.log(err)
+class STT {
+
+    recognize (stream, params) {
+
+        speechToText.recognize(params, (err, res) => {
+            if (err) {console.log(err)}
+            console.log(res.result.results.forEach((result) => {
+                console.log(result.alternatives)
+                // HANDLE THE RESULT HERE
+            }));
+        }).catch(err => {
+
+            console.log(err);
+        });
     }
-    console.log(res.result.results.forEach((result) => {
-        console.log(result.alternatives)
-    }));
-}).catch(err => {
-    console.log(err);
-});
+}
