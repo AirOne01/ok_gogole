@@ -2,6 +2,7 @@
   <dictionary name="popGt">
     <words>
       <w>apikey</w>
+      <w>dialogflow</w>
       <w>narrowband</w>
       <w>webhook</w>
     </words>

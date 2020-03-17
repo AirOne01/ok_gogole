@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../leon/leon.iml" filepath="$PROJECT_DIR$/../leon/leon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ok_gogole.iml" filepath="$PROJECT_DIR$/.idea/ok_gogole.iml" />
     </modules>
   </component>

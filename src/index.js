@@ -12,4 +12,6 @@
               An attempt to copy Google Assistant with IBM Watson
  */
 
-// Dependencies:
+const STT = require('./STT.js');
+
+STT.recognize();

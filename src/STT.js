@@ -23,13 +23,14 @@ const speechToText = new SpeechToTextV1({
 
 class STT {
 
-    recognize (stream, params) {
+    recognize (params2) {
+        let params3;
+        if (params2) {params3 = params2} else {params = params3}
 
-        speechToText.recognize(params, (err, res) => {
+        speechToText.recognize(params3, (err, res) => {
             if (err) {console.log(err)}
             console.log(res.result.results.forEach((result) => {
-                console.log(result.alternatives)
-                // HANDLE THE RESULT HERE
+                console.log(result.alternatives);
             }));
         }).catch(err => {
 
@@ -37,3 +38,5 @@ class STT {
         });
     }
 }
+
+module.exports = STT;
