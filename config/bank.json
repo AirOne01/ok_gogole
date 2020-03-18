@@ -1,6 +1,10 @@
 [
   {
-    "ques": "$CALL comment t'appeles-tu ?",
-    "res": "Mon nom est Assistant Google."
+    "ques": "CALL comment t'appeles-tu ?",
+    "res": "Mon nom est NAME. Je suis votre assistant personnalisé."
+  },
+  {
+    "ques": "CALL qui est-tu?",
+    "res": "Je suis NAME, votre assistant personnalisé."
   }
 ]

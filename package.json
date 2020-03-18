@@ -4,7 +4,8 @@
   "description": "###### (Simon, c'est pour toi)",
   "main": "index.js",
   "dependencies": {
-    "ibm-watson": "^5.4.0"
+    "ibm-watson": "^5.4.0",
+    "string-similarity": "^4.0.1"
   },
   "devDependencies": {},
   "scripts": {
