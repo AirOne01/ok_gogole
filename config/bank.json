@@ -1,5 +1,6 @@
 [
   {
-
+    "ques": "$CALL comment t'appeles-tu ?",
+    "res": "Mon nom est Assistant Google."
   }
 ]

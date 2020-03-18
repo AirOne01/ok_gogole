@@ -1,4 +1,9 @@
 # ok_gogole
-#### Testing features from Google Dialogflow and IBM Watson
+Testing features from Google Dialogflow and IBM Watson
+-------------------
 
-###### (Simon, c'est pour toi)
+#### TODO:
+- Additional sentence meaning verification
+- Wikipédia interaction
+- Google Search interaction
+- Create an aditional mic app (android)
