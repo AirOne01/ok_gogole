@@ -16,6 +16,6 @@ const STT = require('./STT.js');
 const Dialogflow = require('./Dialogflow');
 const dialog = new Dialogflow();
 
-const final = dialog.fullProcess("OK Google, comment t'appeles-tu?");
+const final = dialog.fullProcess("hello");
 
-console.log(final);
+//console.log(final);

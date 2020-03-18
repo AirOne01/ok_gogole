@@ -5,10 +5,9 @@
       <change afterPath="$PROJECT_DIR$/../leon/leon.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leon/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../leon/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leon/server/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../leon/server/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/popGt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/popGt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/bank.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/bank.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Dialogflow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dialogflow.js" afterDir="false" />
@@ -63,7 +62,7 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.typerenderers" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -127,7 +126,7 @@
       <workItem from="1584353819115" duration="107000" />
       <workItem from="1584356704948" duration="664000" />
       <workItem from="1584471457830" duration="1420000" />
-      <workItem from="1584565456431" duration="5609000" />
+      <workItem from="1584565456431" duration="8687000" />
     </task>
     <task id="LOCAL-00001" summary="🍪 Separated code in distinct files">
       <created>1583881832557</created>
@@ -215,10 +214,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1492" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1583951644812" />
-    <state x="277" y="56" key="SettingsEditor" timestamp="1584304012095">
+    <state x="277" y="56" key="SettingsEditor" timestamp="1584572267050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584304012095" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584572267050" />
     <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1583881841734">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -239,9 +238,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="432" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584472155660" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584570969844">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584573370725">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584570969844" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584573370725" />
   </component>
 </project>
