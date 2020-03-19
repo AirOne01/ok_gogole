@@ -1,15 +1,16 @@
 {
   "name": "ok_gogole",
   "version": "1.0.0",
-  "description": "###### (Simon, c'est pour toi)",
+  "description": "Testing features from Google Dialogflow and IBM Watson",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "ibm-watson": "^5.4.0",
+    "node": "^13.10.1",
+    "random-js": "^2.1.0",
     "string-similarity": "^4.0.1"
   },
-  "devDependencies": {
-    "random-js": "^2.1.0"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

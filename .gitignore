@@ -103,6 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-
-
-rest.json
+./package-lock.json
+./rest.json
+.idea/inspectionProfiles/

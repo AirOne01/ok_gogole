@@ -4,8 +4,8 @@
   "tts_apikey": "McW8DcOo7eBPijTFnLi-PezE-b74E641NbsKcTVTX7qs",
   "tts_apiurl": "https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/a1adb810-b86d-47e0-8e0f-bb845058f8e9",
   "dialogflow": {
-    "NAME": "Assistant Google",
-    "SNAME": "Google",
-    "CALL": "OK Google"
+    "$NAME": "Assistant Google",
+    "$SNAME": "Google",
+    "$CALL": "OK Google"
   }
 }

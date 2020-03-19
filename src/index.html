@@ -1,0 +1,20 @@
+<DOCTYPE html>
+<html lang='fr'>
+   <head>
+       <script>
+           function listen() {
+                navigator.mediaDevices.getUserMedia({audio: true})
+                    .then(function(stream) {
+                        console.log(stream)
+                    })
+                    .catch(function(err) {
+                        console.log(err)
+                    });
+           }
+       </script>
+       <title>Audio recorder</title>
+   </head>
+   <body>
+       <button onclick='listen()'>Lancer l'audio</button>
+   </body>
+</html>

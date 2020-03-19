@@ -1,16 +1,16 @@
 [
   {
-    "ques": "CALL comment t'appeles-tu ?",
-    "res": "Mon nom est NAME. Je suis votre assistant personnalisé."
+    "ques": "$CALL comment t'appeles-tu ?",
+    "res": "Mon nom est $NAME. Je suis votre assistant personnalisé."
   },
   {
-    "ques": "CALL qui est-tu?",
-    "res": "Je suis NAME, votre assistant personnalisé."
+    "ques": "$CALL qui est-tu?",
+    "res": "Je suis $LNAME, votre assistant personnalisé."
   },
   {
-    "ques": "Hello",
+    "ques": "$CALL fais moi une blague",
     "res": [
-      "1",
+      "Quelle est l’acteur qui a la main verte? ... Jean Dujardin",
       "2",
       "3",
       "4"

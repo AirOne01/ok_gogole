@@ -8,9 +8,10 @@ hand-made sentence recognition program.
 Because of this, predefined params had to be set beforehand launching the bot.
 You can find them in ../config/config.json
 Here's the list:
-NAME       Name of the bot, usually "Assistant Google"
-SNAME      Short name of the bot, usually "Google"
-CALL       Method to call the bot, usually "OK Google"
+$NAME       Name of the bot, usually "Assistant Google".
+$LNAME      Bot name with prefix, usually "l'Assistant Google". If not used, set the same value as $NAME.
+$SNAME      Short name of the bot, usually "Google".
+$CALL       Method to call the bot, usually "OK Google".
 */
 
 const stringSimilarity = require('string-similarity');
@@ -23,9 +24,10 @@ module.exports = class Dialogflow {
 
     clearText(text) {
         // This method basically make your bot whoever you want, be it Alexa, Siri or Google.
-        text = text.replace("NAME", cfg.dialogflow.NAME);
-        text = text.replace("SNAME", cfg.dialogflow.SNAME);
-        text = text.replace("CALL", cfg.dialogflow.CALL);
+        text = text.replace("$NAME", cfg.dialogflow.$NAME);
+        text = text.replace("$LNAME", cfg.dialogflow.$LNAME);
+        text = text.replace("$SNAME", cfg.dialogflow.$SNAME);
+        text = text.replace("$CALL", cfg.dialogflow.$CALL);
 
         return text;
     }
