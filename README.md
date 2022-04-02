@@ -1,4 +1,9 @@
 # ok_gogole
+
+## This is an abandonned project
+
+For future references, this was made for a magician friend and should have featured cool things like TTS, AIs and Flutter developpement, but was canceled before the pandemic.
+
 ### Testing features from Google Dialogflow and IBM Watson
 
 #### TODO:
